@@ -289,6 +289,9 @@ h6 {
 }
 
 #hero h1 {
+  position:absolute;
+  top: 50%;
+  left: 40%;
   margin: 0 0 10px 0;
   font-size: 64px;
   font-weight: 700;
@@ -297,6 +300,9 @@ h6 {
 }
 
 #hero p {
+  position:absolute;
+  top: 60%;
+  left: 40%;
   color: #fff;
   margin-bottom: 50px;
   font-size: 26px;
