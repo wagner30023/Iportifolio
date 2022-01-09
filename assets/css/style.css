@@ -262,13 +262,12 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero, #particles-js{
+#hero, #particles-js {
   width: 100%;
   height: 100vh;
   background: url("../img/lake-g14427ad9a_1280.jpg") top center;
   background-size: cover;
 }
-
 
 
 #hero:before {
